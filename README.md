@@ -5,7 +5,7 @@ In this repos my work centers around rigorous discovery, at the initial phase of
 followed by the application of acquired expertise to engineer scalable and efficient solutions and establishing architectural foundations.
 I operate at the intersection of technical exploration and practical implementation.
 
-
+My GitHub is R&D of of repositories of evolving projects driven by a core philosophy: understand deeply before you build broadly. I focus heavily on the 'why' behind the technology, dedicating time to thorough discovery phases for every initiative. Here, you'll find explorations in [mention 1-2 specific technologies if relevant, e.g., distributed systems, data pipelines], where theory meets practical execution.
 
 <!--
 **Logic-HQ/Logic-HQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
