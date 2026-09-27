@@ -5,8 +5,11 @@ In this repos my work centers around rigorous discovery, at the initial phase of
 followed by the application of acquired expertise to engineer scalable and efficient solutions and establishing architectural foundations.
 I operate at the intersection of technical exploration and practical implementation.
 
-# [My Repos](https://logic-hq.github.io/)
-
+# [My Insights & Repos](https://logic-hq.github.io/)
+ |  Focus Area | Resource Link |
+| :--- | :--- |
+| **Kafka challenges & their solutions** | [Challenges](https://github.com/Logic-HQ/kafka-challenges-and-solutions/wiki/Welcome-to-the-Kafka-challenges-&-their-solutions) |
+| **Squeeze the maximum out of the GPU.**  Triton CUDA Kernel Optimization for LLM Attention and GEMM R&D Project Structure Overview | [Didactic octo memory](https://github.com/Logic-HQ/didactic-octo-memory/wiki) |
 <!--
 **Logic-HQ/Logic-HQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
