@@ -10,7 +10,7 @@ I operate at the intersection of technical exploration and practical implementat
 | :--- | :--- |
 | **Apache Kafka challenges & their solutions** | [Kafka Challenges](https://github.com/Logic-HQ/kafka-challenges-and-solutions/wiki/Welcome-to-the-Kafka-challenges-&-their-solutions) |
 | **Squeeze the maximum out of the GPU.**  Triton CUDA Kernel Optimization for LLM Attention and GEMM R&D Project Structure Overview | [Didactic octo memory](https://github.com/Logic-HQ/didactic-octo-memory/wiki) |
-| **Write-Ahead Log**  Crash Recovery, Durability and Atomicity Overview | [Write‐Ahead Logging](https://github.com/Logic-HQ/didactic-octo-memory/wiki](https://github.com/Logic-HQ/write-ahead-logging/wiki/Write%E2%80%90Ahead-Logging) |
+| **Write-Ahead Log**  Crash Recovery, Durability and Atomicity Overview | [Write‐Ahead Logging](https://github.com/Logic-HQ/write-ahead-logging/wiki/Write%E2%80%90Ahead-Logging) |
 <!--
 **Logic-HQ/Logic-HQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
