@@ -5,7 +5,13 @@ In this repos my work centers around rigorous discovery, at the initial phase of
 followed by the application of acquired expertise to engineer scalable and efficient solutions and establishing architectural foundations.
 I operate at the intersection of technical exploration and practical implementation.
 
-# [My Insights & Repos](https://logic-hq.github.io/)
+#  Recent insights
+
+[![anomaly-detection](https://github.com/Logic-HQ/logic-hq.github.io/blob/main/public/static/img/anomaly-detection-pre.png)](https://logic-hq.github.io/statistical-process-control-and-anomaly-detection.html?vscode-livepreview=true)
+
+
+## [My Insights & Repos](https://logic-hq.github.io/)
+
  |  Focus Area | Resource Link |
 | :--- | :--- |
 | **Apache Kafka challenges & their solutions** | [Kafka Challenges](https://github.com/Logic-HQ/kafka-challenges-and-solutions/wiki/Welcome-to-the-Kafka-challenges-&-their-solutions) |
