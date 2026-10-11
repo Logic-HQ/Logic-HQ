@@ -14,6 +14,7 @@ I operate at the intersection of technical exploration and practical implementat
 
  |  Focus Area | Resource Link |
 | :--- | :--- |
+|**SAP Erweiterungshub CPI-Adapter Lieferant (Sandkasten)** Dashboard zur Optimierung des Warenbestands (Migration vom Legacy- zum Cloud-Umfeld)|[SAP Extensibility Hub CPI Adapter](https://github.com/ValentinaTech/SAP-Extensibility-Hub-CPI-Adapter-Supplier/pull/3)|
 | **Apache Kafka challenges & their solutions** | [Kafka Challenges](https://github.com/Logic-HQ/kafka-challenges-and-solutions/wiki/Welcome-to-the-Kafka-challenges-&-their-solutions) |
 | **Squeeze the maximum out of the GPU.**  Triton CUDA Kernel Optimization for LLM Attention and GEMM R&D Project Structure Overview | [Didactic octo memory](https://github.com/Logic-HQ/didactic-octo-memory/wiki) |
 | **Write-Ahead Log**  Crash Recovery, Durability and Atomicity Overview | [Write‐Ahead Logging](https://github.com/Logic-HQ/write-ahead-logging/wiki/Write%E2%80%90Ahead-Logging) |
