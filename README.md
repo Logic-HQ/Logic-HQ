@@ -6,6 +6,8 @@ If a repository has no release tag, it is an active R&D experiment or an initial
 
 Every single repository here is an open invitation for discussion. If you are looking at the same topic or tracking an exciting blueprint, let's build it together. Drop an issue on any topic that catches your eye, and let's start talking.
 
+If you’re interested in learning about me, here is my [Sergi profile page](https://logic-hq.github.io/en/profile-sergio).
+
 
 # My recent Insights & Repos ✨
 
