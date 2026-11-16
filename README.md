@@ -11,6 +11,9 @@ If you’re interested in learning about me, here is my [Sergi profile page](htt
 
 # My recent Insights & Repos ✨
 
+[![](https://github.com/ValentinaTech/ValentinaTech/raw/main/imgs/octoTriage_site.png)](https://logic-hq.github.io/octo-triage/)
+
+--- 
 [![anomaly-detection](https://github.com/Logic-HQ/logic-hq.github.io/blob/main/public/static/img/anomaly-detection-pre.png)](https://logic-hq.github.io/statistical-process-control-and-anomaly-detection.html?vscode-livepreview=true)
 
 
